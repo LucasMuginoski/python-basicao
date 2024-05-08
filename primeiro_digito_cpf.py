@@ -27,8 +27,6 @@ O primeiro dígito do CPF é 7
 cpf = '74682489070'
 nove_digitos = cpf[:9]
 
-# verificar qtd digitos (11)
-
 contador_regressivo_1 = 10
 somatorio_digito_1 = 0
 for digito in nove_digitos:
